@@ -29,3 +29,7 @@
 .sound-picker {
 	background: lightgreen;
 }
+
+video {
+	display: none;
+}
