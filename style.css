@@ -11,6 +11,20 @@
 	align-items: center;
 }
 
+h1 {
+	text-align: center;
+	color: white;
+	font-family: Montserrat, Sans;
+	margin-top: 16px;
+}
+
+p {
+	text-align: center;
+	color: white;
+	font-family: Montserrat, Sans;
+	padding-top: 10px;
+}
+
 .time-select, 
 .sound-picker,
 .player-container  {
